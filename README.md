@@ -2,7 +2,6 @@
 
 This repository contains the files and documentation for the **ABS (Anti-lock Braking System) Simulation** project completed as part of the **Automotive Electrical and Electronic Systems** course.
 
-\
 
 ## Project Overview
 The objective of this project is to model and simulate **vehicle longitudinal braking dynamics** using a **quarter-car model** and design a simple **ABS slip controller** that maintains wheel slip near the optimal region for maximum tire–road friction. The study compares **braking with and without ABS** across different road conditions and evaluates stopping distance, wheel/vehicle speed, braking torque, slip, and friction behavior.
